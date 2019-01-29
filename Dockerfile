@@ -1,5 +1,5 @@
 FROM bitnami/minideb-extras:stretch-r262
-LABEL maintainer "Bitnami <containers@bitnami.com>"
+LABEL maintainer "tellxp@github.com"
 
 ENV BITNAMI_PKG_CHMOD="-R g+rwX" \
     HOME="/"
